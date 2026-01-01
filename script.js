@@ -19,6 +19,10 @@ const slides = [
     {
         before: 'imagenes/antes3.webp',
         after: 'imagenes/despues3.webp'
+    },
+    {
+        before: 'imagenes/antes4.webp',
+        after: 'imagenes/despues4.webp'
     }
 ];
 
